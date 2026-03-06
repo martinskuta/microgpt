@@ -149,6 +149,6 @@ The [author](https://github.com/martinskuta) of the C# version deliberately opti
 
 Original [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95) by Andrej Karpathy
 
-C# translation by [@martinskuta](https://github.com/martinskuta)
+C# implementation by [@martinskuta](https://github.com/martinskuta)
 
 F# translation by [@jonas1ara](https://github.com/jonas1ara)
